@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑습니더 👋
 
 <!--
 **modo-lee/modo-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
